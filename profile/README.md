@@ -26,4 +26,4 @@ Use both together for a complete solution, or use Rugix Ctrl with your favorite 
 
 **100% open-source and permissively licensed.** ❤️
 
-Rugix has been created and is maintained by [Silitics](https://github.com/silitics), a company offering support and consulting for embedded Linux projects, as well as [Nexigon](https://nexigon.cloud), a fleet management solution. Silitics is 100% privately owned and led by its founder [@koehlma](https://github.com/koehlma).
+Rugix has been created and is maintained by [Silitics](https://github.com/silitics), a company offering support and consulting for embedded Linux projects, as well as [Nexigon](https://github.com/nexigon), a fleet management solution. Silitics is 100% privately owned and led by its founder [@koehlma](https://github.com/koehlma).
