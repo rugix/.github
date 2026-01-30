@@ -13,7 +13,7 @@ Rugix provides everything you need to build and maintain robust Linux-powered pr
 
 Works with Yocto, Buildroot, or any other Linux build system.
 
-In addition [Rugix Bakery](https://github.com/rugix/rugix-bakery), lets you **build custom Linux distributions in days, not months**:
+In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **build custom Linux distributions in days, not months**:
 
 - **Supported Distributions**: Debian, Alpine Linux, and Raspberry Pi OS.
 - **Container-Based Builds**: Reproducible build environment from source to image.
