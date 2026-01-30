@@ -1,6 +1,6 @@
-# Ruggedized Linux for Embedded Systems
+# Ruggedized Linux for Connected Products
 
-Rugix provides everything you need to build and maintain robust embedded Linux products, from development to production.
+Rugix provides everything you need to build and maintain robust Linux-powered products, from development to production.
 
 [Rugix Ctrl](https://github.com/rugix/rugix) lets you **deploy updates with confidence, never bricking a device**:
 
