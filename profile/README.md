@@ -2,7 +2,7 @@
 
 Rugix provides everything you need to build and maintain robust embedded Linux products, from development to production.
 
-[Rugix Ctrl](https://rugix.org/docs/ctrl/) lets you **deploy updates with confidence, never bricking a device**:
+[Rugix Ctrl](https://github.com/rugix/rugix) lets you **deploy updates with confidence, never bricking a device**:
 
 - **A/B Updates**: Atomic system updates with automatic rollback on failure.
 - **Delta Updates**: Highly-efficient update delivery minimizing bandwidth.
@@ -13,7 +13,7 @@ Rugix provides everything you need to build and maintain robust embedded Linux p
 
 Works with Yocto, Buildroot, or any other Linux build system.
 
-In addition [Rugix Bakery](https://rugix.org/docs/bakery/), lets you **build custom Linux distributions in days, not months**:
+In addition [Rugix Bakery](https://github.com/rugix/rugix-bakery), lets you **build custom Linux distributions in days, not months**:
 
 - **Supported Distributions**: Debian, Alpine Linux, and Raspberry Pi OS.
 - **Container-Based Builds**: Reproducible build environment from source to image.
