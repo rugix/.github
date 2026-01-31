@@ -1,26 +1,27 @@
-# Ruggedized Linux for Connected Products
+# Open-Source Tools for Robust Linux-powered Products
 
 Rugix provides everything you need to build and maintain robust Linux-powered products, from development to production.
 
 [Rugix Ctrl](https://github.com/rugix/rugix) lets you **deploy updates with confidence, never bricking a device**:
 
 - **A/B Updates**: Atomic system updates with automatic rollback on failure.
-- **Delta Updates**: Highly-efficient update delivery minimizing bandwidth.
-- **Signature Verification**: Cryptographic verification before installation.
-- **State Management**: Flexible state management inspired by containers.
-- **Vendor-Agnostic**: Compatible with various fleet management solutions.
+- **Delta Updates**: [Highly-efficient delta updates](https://rugix.org/blog/efficient-delta-updates) minimizing bandwidth.
+- **Signature Verification**: Cryptographic verification _before_ installing anything anywhere.
+- **State Management**: Flexible state management inspired by container-based architectures.
+- **Vendor-Agnostic**: Compatible with [various fleet management solutions](https://rugix.org/docs/ctrl/advanced/fleet-management) (avoids lock-in).
+- **Flexible Boot Flows**: Supports [any bootloader and boot process](https://rugix.org/docs/ctrl/advanced/boot-flows).
 - **Yocto Integration**: [Ready-made Yocto layers](https://github.com/rugix/meta-rugix) available.
 
-Works with Yocto, Buildroot, or any other Linux build system.
+Works with Yocto, Buildroot, and other Linux build systems.
 
 In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **build custom Linux distributions in days, not months**:
 
 - **Supported Distributions**: Debian, Alpine Linux, and Raspberry Pi OS.
+- **OTA Updates**: Over-the-air update capabilities powered by Rugix Ctrl out of the box.
 - **Container-Based Builds**: Reproducible build environment from source to image.
 - **System Variants**: Support for multiple configurations including test setups.
 - **Integrated Testing**: Built-in system testing framework based on VMs.
 - **SBOM Generation**: Built-in SBOM generation for regulatory compliance.
-- **OTA Updates**: Integration with Rugix Ctrl for seamless updates.
 
 Use both together for a complete solution, or use Rugix Ctrl with your favorite build system.
 
