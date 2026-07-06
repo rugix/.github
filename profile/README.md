@@ -1,4 +1,4 @@
-# Open Lifecycle Engine for Embedded Linux Products
+# Open Lifecycle Layer for Embedded Linux Products
 
 Rugix provides everything you need to build and maintain robust Linux-powered products, from development to production.
 
