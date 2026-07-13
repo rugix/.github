@@ -9,6 +9,7 @@ Rugix provides everything you need to build and maintain robust Linux-powered pr
 - **Signature Verification**: Cryptographic verification _before_ installing anything anywhere.
 - **State Management**: Flexible state management inspired by container-based architectures.
 - **Application Updates**: Atomic deployment and rollback of [application workloads](https://rugix.org/docs/ctrl/application-updates/).
+- **Compatibility Checks**: Verifies system and application updates are compatible before installation.
 - **Vendor-Agnostic**: Compatible with [various fleet management solutions](https://rugix.org/docs/ctrl/advanced/fleet-management) (avoids lock-in).
 - **Flexible Boot Flows**: Supports [any bootloader and boot process](https://rugix.org/docs/ctrl/advanced/boot-flows).
 - **Yocto Integration**: [Ready-made Yocto layers](https://github.com/rugix/meta-rugix) available.
