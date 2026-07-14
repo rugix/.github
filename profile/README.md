@@ -7,9 +7,9 @@ Rugix provides everything you need to build and maintain robust Linux-powered pr
 - **Fail-Safe System Updates**: Atomic A/B updates with automatic rollback on failure.
 - **Application Lifecycle Management**: Atomic deployment and rollback of [application workloads](https://rugix.org/docs/ctrl/application-updates/).
 - **State Management**: Flexible state management inspired by container-based architectures.
-- **Efficient Delivery**: [Highly-efficient delta updates](https://rugix.org/blog/efficient-delta-updates) minimizing bandwidth.
+- **Efficient Delivery**: [Highly efficient delta updates](https://rugix.org/blog/efficient-delta-updates) minimizing bandwidth.
 - **Secure Updates**: Cryptographic verification _before_ installing anything anywhere.
-- **Compatibility Checks**: Verifies system and application updates are compatible before installation.
+- **Compatibility Checks**: Verifies that system and application updates are compatible before installation.
 - **Vendor-Agnostic**: Compatible with [various fleet management solutions](https://rugix.org/docs/ctrl/advanced/fleet-management) (avoids lock-in).
 - **Flexible Boot Flows**: Supports [any bootloader and boot process](https://rugix.org/docs/ctrl/advanced/boot-flows).
 - **Yocto Integration**: [Ready-made Yocto layers](https://github.com/rugix/meta-rugix) available.
@@ -27,7 +27,7 @@ In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **bu
 - **Integrated Testing**: Built-in system testing framework based on VMs.
 - **SBOM Generation**: Built-in SBOM generation for regulatory compliance.
 
-Use Rugix Bakery and Rugix Ctrl together for a complete build-to-deployment solution, or use Rugix Ctrl with your favorite build system. Add Rugix Admin when you need a local web interface for device operation and service.
+Use Rugix Bakery and Rugix Ctrl together for an end-to-end workflow from image creation through deployment and maintenance, or use Rugix Ctrl with your favorite build system.
 
 **100% open-source and permissively licensed.** ❤️
 
