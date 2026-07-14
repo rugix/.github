@@ -16,7 +16,7 @@ Rugix provides everything you need to build and maintain robust Linux-powered pr
 
 Works with Yocto, Buildroot, and other Linux build systems.
 
-[Rugix Admin](https://github.com/rugix/rugix-admin) complements Rugix Ctrl with a **lightweight, browser-based management interface for individual devices**. It lets developers and operators inspect system status, install updates, manage application workloads, and diagnose devices locally; ideal for development, demos, and field service.
+[Rugix Admin](https://github.com/rugix/rugix-admin) complements Rugix Ctrl with a **lightweight, browser-based management interface for individual devices**. It lets developers and operators inspect system status, install updates, manage application workloads, and diagnose devices locally, making it ideal for development, demos, and field service.
 
 In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **build custom Linux distributions in days, not months**:
 
