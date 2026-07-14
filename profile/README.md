@@ -2,13 +2,13 @@
 
 Rugix provides everything you need to build and maintain robust Linux-powered products, from development to production.
 
-[Rugix Ctrl](https://github.com/rugix/rugix) lets you **deploy updates with confidence, never bricking a device**:
+[Rugix Ctrl](https://github.com/rugix/rugix) provides **reliable lifecycle management for Linux devices**, with atomic system and application updates, automatic rollback, and flexible management of persistent state:
 
-- **A/B Updates**: Atomic system updates with automatic rollback on failure.
-- **Delta Updates**: [Highly-efficient delta updates](https://rugix.org/blog/efficient-delta-updates) minimizing bandwidth.
-- **Signature Verification**: Cryptographic verification _before_ installing anything anywhere.
+- **Fail-Safe System Updates**: Atomic A/B updates with automatic rollback on failure.
+- **Application Lifecycle Management**: Atomic deployment and rollback of [application workloads](https://rugix.org/docs/ctrl/application-updates/).
 - **State Management**: Flexible state management inspired by container-based architectures.
-- **Application Updates**: Atomic deployment and rollback of [application workloads](https://rugix.org/docs/ctrl/application-updates/).
+- **Efficient Delivery**: [Highly-efficient delta updates](https://rugix.org/blog/efficient-delta-updates) minimizing bandwidth.
+- **Secure Updates**: Cryptographic verification _before_ installing anything anywhere.
 - **Compatibility Checks**: Verifies system and application updates are compatible before installation.
 - **Vendor-Agnostic**: Compatible with [various fleet management solutions](https://rugix.org/docs/ctrl/advanced/fleet-management) (avoids lock-in).
 - **Flexible Boot Flows**: Supports [any bootloader and boot process](https://rugix.org/docs/ctrl/advanced/boot-flows).
