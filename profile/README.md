@@ -16,6 +16,8 @@ Rugix provides everything you need to build and maintain robust Linux-powered pr
 
 Works with Yocto, Buildroot, and other Linux build systems.
 
+[Rugix Admin](https://github.com/rugix/rugix-admin) complements Rugix Ctrl with a lightweight, browser-based management interface for individual devices. It lets developers and operators inspect system status, install updates, manage application workloads, and diagnose devices locally—ideal for development, demos, and field service.
+
 In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **build custom Linux distributions in days, not months**:
 
 - **Supported Distributions**: Debian, Alpine Linux, and Raspberry Pi OS.
@@ -25,7 +27,7 @@ In addition, [Rugix Bakery](https://github.com/rugix/rugix-bakery) lets you **bu
 - **Integrated Testing**: Built-in system testing framework based on VMs.
 - **SBOM Generation**: Built-in SBOM generation for regulatory compliance.
 
-Use both together for a complete solution, or use Rugix Ctrl with your favorite build system.
+Use Rugix Bakery and Rugix Ctrl together for a complete build-to-deployment solution, or use Rugix Ctrl with your favorite build system. Add Rugix Admin when you need a local web interface for device operation and service.
 
 **100% open-source and permissively licensed.** ❤️
 
