@@ -31,4 +31,4 @@ Use Rugix Bakery and Rugix Ctrl together for an end-to-end workflow from image c
 
 **100% open-source and permissively licensed.** ❤️
 
-Rugix is created and maintained by [Silitics](https://github.com/silitics), an independent, founder-owned company providing support and consulting for embedded Linux projects. Silitics also develops [Nexigon](https://github.com/nexigon), a fleet management solution.
+Rugix is created and maintained by [Silitics](https://github.com/silitics), an independent, founder-owned company providing support and consulting for embedded Linux projects. Silitics also develops [Nexigon](https://github.com/nexigon), a device and software lifecycle management platform.
