@@ -1,8 +1,8 @@
-# The Open Lifecycle Layer for Embedded Linux
+# The Open-Source Toolkit for Embedded Linux
 
-Rugix provides everything you need to build and maintain robust Linux-powered products, from development to production.
+Rugix is an open-source toolkit for building and maintaining robust Linux-powered products, from development to production. Its tools cover on-device systems management, custom image builds, and a browser-based operator interface.
 
-[Rugix Ctrl](https://github.com/rugix/rugix) provides **reliable lifecycle management for Linux devices**, with atomic system and application updates, automatic rollback, and flexible management of persistent state:
+[Rugix Ctrl](https://github.com/rugix/rugix) **deploys robust updates and manages application workloads and persistent state** on Linux devices:
 
 - **Fail-Safe System Updates**: Atomic A/B updates with automatic rollback on failure.
 - **Application Lifecycle Management**: Atomic deployment and rollback of [application workloads](https://rugix.org/docs/ctrl/application-updates/).
