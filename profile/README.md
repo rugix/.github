@@ -26,9 +26,6 @@ OTA-ready Linux system images in days, not months**:
 - **Integrated Testing**: Built-in system testing framework based on VMs.
 - **SBOM Generation**: Built-in SBOM generation for regulatory compliance.
 
-Rugix Bakery builds system images with Rugix Ctrl update support out of the box.
-Rugix Ctrl works with Yocto, Buildroot, and other Linux build systems.
-
 [Rugix Admin](https://github.com/rugix/rugix-admin) complements Rugix Ctrl with a **lightweight, browser-based management interface for individual devices**. It lets developers and operators inspect system status, install updates, manage application workloads, and diagnose devices locally, making it ideal for development, demos, and field service.
 
 **100% open-source and permissively licensed.** ❤️
